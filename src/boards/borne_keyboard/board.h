@@ -63,8 +63,8 @@
 // https://github.com/openmoko/openmoko-usb-oui
 // https://wiki.openmoko.org/wiki/USB_Product_IDs
 //--------------------------------------------------------------------+
-//TODO: get ID for Borne-Keyboard
-//Currently using VID/PID with Feather nRF52840
+// TODO: get ID for Borne-Keyboard
+// Currently using VID/PID with Feather nRF52840
 #define USB_DESC_VID           0x1209
 #define USB_DESC_UF2_PID       0x7A01
 #define USB_DESC_CDC_ONLY_PID  0x7A01
