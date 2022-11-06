@@ -72,6 +72,6 @@
 #define UF2_PRODUCT_NAME  "Borne Keyboard"
 #define UF2_VOLUME_LABEL  "BORNE-BOOT"
 #define UF2_BOARD_ID      "nRF52840-borne-keyboard-v1"
-#define UF2_INDEX_URL     "https://github.com/whiz00/borne-keyboard"
+#define UF2_INDEX_URL     "https://github.com/gibbz00/borne-keyboard-v1"
 
 #endif // _BORNE_KEYBOARD_H
